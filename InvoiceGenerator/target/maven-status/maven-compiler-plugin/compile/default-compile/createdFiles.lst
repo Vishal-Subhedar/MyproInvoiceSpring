@@ -1,0 +1,15 @@
+com\mph\service\ProductService.class
+com\mph\service\UsersServiceImpl.class
+com\mph\entity\User.class
+com\mph\controller\userRestController.class
+com\mph\controller\ProductRestController.class
+com\mph\entity\ProductComparator.class
+com\mph\dao\ProductDao.class
+com\mph\dao\ProductDaoImpl.class
+com\mph\entity\Product.class
+com\mph\entity\Customer.class
+com\mph\service\UsersService.class
+com\mph\dao\UsersDao.class
+com\mph\entity\Supplier.class
+com\mph\service\ProductServiceImpl.class
+com\mph\dao\UsersDaoImpl.class
